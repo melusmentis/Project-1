@@ -6,7 +6,7 @@ h1 {
 }
 
 li {
-    font-size: 50px;
+    font-size: 20px;
     color: teal;
 
 
@@ -15,5 +15,20 @@ li {
 
 body {
     background-color: thistle;
+
+}
+
+
+h2 {
+    font-size: 30px;
+    color: rebeccapurple;
+
+
+}
+
+H2 {
+    font-size: 30px;
+    color: rebeccapurple;
+
 
 }
